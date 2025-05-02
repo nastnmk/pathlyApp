@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/nav_bottom"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="65dp"
+    android:layout_width="match_parent"
+    android:background="@drawable/nav_background"
+    android:orientation="horizontal"
+    >
+
+    <ImageView
+        android:id="@+id/nav_home"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:src="@drawable/selector_nav_home"
+        android:scaleType="centerInside"/>
+
+    <ImageView
+        android:id="@+id/nav_blocks"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:src="@drawable/selector_nav_blocks"
+        android:scaleType="centerInside"/>
+
+    <ImageView
+        android:id="@+id/nav_route"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:layout_marginTop="-2dp"
+        android:src="@drawable/selector_nav_route"/>
+
+    <ImageView
+        android:id="@+id/nav_favorite"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:src="@drawable/selector_nav_favorite"
+        android:scaleType="centerInside"/>/>
+
+    <ImageView
+        android:id="@+id/nav_profile"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:src="@drawable/selector_nav_profile"
+        android:scaleType="centerInside"/>
+
+
+</LinearLayout>

@@ -1,0 +1,25 @@
+<resources>
+    <style name="CircleImageShape" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+
+    <style name="FilterChipStyle.Selected" parent="Widget.MaterialComponents.Chip.Filter">
+        <item name="android:textColor">@color/dark_purple</item>
+        <item name="fontFamily">@font/gilroy_semibold</item>
+        <item name="chipCornerRadius">15dp</item>
+        <item name="chipStrokeColor">@android:color/transparent</item>
+        <item name="chipBackgroundColor">@color/light_purple</item>
+        <item name="chipStrokeWidth">0dp</item>
+    </style>
+
+    <style name="FilterChipStyle.Default" parent="Widget.MaterialComponents.Chip.Filter">
+        <item name="android:textColor">@color/dark_purple</item>
+        <item name="fontFamily">@font/gilroy_semibold</item>
+        <item name="chipCornerRadius">15dp</item>
+        <item name="chipStrokeColor">@color/purple</item>
+        <item name="chipBackgroundColor">@android:color/transparent</item>
+        <item name="chipStrokeWidth">1dp</item>
+    </style>
+
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">pathlyApp</string>
+    <string name="pathly">Pathly</string>
+    <string name="entr_subtitle">Расширь свои горизонты, гуляя по новым маршрутам</string>
+    <string name="build_routes">Строить маршруты</string>
+    <string name="main_page">Главное меню</string>
+    <string name="music"><![CDATA[Музыка & Подкасты]]></string>
+    <string name="places">Места</string>
+    <string name="more">Подробнее</string>
+    <string name="all">Все</string>
+    <string name="nature">Природа</string>
+    <string name="gastronomy">Гастрономия</string>
+    <string name="filters">Фильтры</string>
+    <string name="recommendations">Рекомендованные подборки</string>
+</resources>
