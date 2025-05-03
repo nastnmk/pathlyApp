@@ -12,4 +12,10 @@
     <string name="gastronomy">Гастрономия</string>
     <string name="filters">Фильтры</string>
     <string name="recommendations">Рекомендованные подборки</string>
+    <string name="entrance">Вход</string>
+    <string name="or">или</string>
+    <string name="email">Почта</string>
+    <string name="password">Пароль</string>
+    <string name="forget_password">Забыл пароль?</string>
+    <string name="enter">Войти</string>
 </resources>
