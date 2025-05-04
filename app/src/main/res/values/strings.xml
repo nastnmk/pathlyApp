@@ -18,4 +18,25 @@
     <string name="password">Пароль</string>
     <string name="forget_password">Забыл пароль?</string>
     <string name="enter">Войти</string>
+    <string name="not_registered_then_register">Нет аккаунта? Зарегистрироваться</string>
+    <string name="send_email">Мы отправим вам письмо для возможности изменить</string>
+    <string name="send">Отправить</string>
+    <string name="male">М</string>
+    <string name="female">Ж</string>
+    <string name="name">Имя</string>
+    <string name="nickname">Никнейм</string>
+    <string name="date_birth">Дата рождения</string>
+    <string name="registration">Регистрация</string>
+    <string name="profile_name">Петр Петрович</string>
+    <string name="profile_email">petr12345@yandex.ru</string>
+    <string name="routes">Маршрутов</string>
+    <string name="num">6 шт</string>
+    <string name="num_1">6</string>
+    <string name="profile_places">Мест</string>
+    <string name="num_2">15</string>
+    <string name="step_per_day">Шагов/день</string>
+    <string name="num_3">11 300</string>
+    <string name="profile">Профиль</string>
+    <string name="settings">Настройки</string>
+    <string name="QA"><![CDATA[Q&A]]></string>
 </resources>
