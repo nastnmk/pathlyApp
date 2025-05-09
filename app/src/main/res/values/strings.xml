@@ -39,4 +39,8 @@
     <string name="profile">Профиль</string>
     <string name="settings">Настройки</string>
     <string name="QA"><![CDATA[Q&A]]></string>
+    <string name="activity">Активность</string>
+    <string name="data">сегодня</string>
+    <string name="History">История</string>
+    <string name="interesting_facts">Интересные факты</string>
 </resources>
